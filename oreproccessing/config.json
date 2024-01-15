@@ -1,0 +1,40 @@
+{
+    "enrichItemList": [
+        "forge:raw_materials/copper",
+        "forge:ores/certus_quartz",
+        "forge:raw_materials/iron",
+        "forge:ores/coal",
+        "forge:raw_materials/lead",
+        "forge:raw_materials/silver",
+        "forge:raw_materials/tin",
+        "forge:raw_materials/osmium",
+        "forge:ores/redstone",
+        "forge:raw_materials/iridium",
+        "forge:ores/diamond",
+        "forge:raw_materials/uranium",
+        "forge:raw_materials/aluminum",
+        "forge:ores/fluorite",
+        "forge:ores/emerald",
+        "forge:ores/lapis",
+        "forge:raw_materials/nickel",
+        "forge:ores/quartz"
+    ],
+    "smeltItemList": [
+        "forge:ores/sulfur",
+        "forge:ores/bitumen"
+    ],
+    "inductionSmeltItemList": [
+        "forge:ores/ruby",
+        "forge:ores/sapphire",
+        "forge:raw_materials/gold",
+        "forge:ores/niter"
+    ],
+    "unknownItems": {
+        "minecraft:glowstone": [
+            "forge:storage_blocks/glowstone",
+            "minecolonies:reduceable_product_excluded",
+            "functionalstorage:ignore_crafting_check",
+            "ae2:p2p_attunements/light_p2p_tunnel"
+        ]
+    }
+}
